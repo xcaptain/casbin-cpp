@@ -20,7 +20,7 @@
 
 #include <algorithm>
 
-#include "./assertion.h"
+#include "./Assertion.h"
 #include "../exception/illegal_argument_exception.h"
 
 void Assertion :: BuildIncrementalRoleLinks(RoleManager* rm, policy_op op, vector<vector<string>> rules) {

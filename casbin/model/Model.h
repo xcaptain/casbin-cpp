@@ -19,7 +19,7 @@
 
 #include <unordered_map>
 
-#include "./assertion.h"
+#include "./Assertion.h"
 #include "../config/config_interface.h"
 
 using namespace std;

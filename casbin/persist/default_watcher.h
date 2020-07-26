@@ -17,7 +17,7 @@
 #ifndef CASBIN_CPP_PERSIST_DEFAULT_WATCHER
 #define CASBIN_CPP_PERSIST_DEFAULT_WATCHER
 
-#include "./watcher.h"
+#include "./Watcher.h"
 
 class DefaultWatcher: public Watcher {
     public:

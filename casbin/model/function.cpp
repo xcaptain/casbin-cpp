@@ -18,7 +18,7 @@
 
 #include "pch.h"
 
-#include "./function.h"
+#include "./Function.h"
 #include "../util/util.h"
 
 FunctionMap :: FunctionMap(){

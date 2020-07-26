@@ -1,7 +1,7 @@
 #ifndef CASBIN_CPP_PERSIST_FILE_ADAPTER_FILE_ADAPTER
 #define CASBIN_CPP_PERSIST_FILE_ADAPTER_FILE_ADAPTER
 
-#include "../adapter.h"
+#include "../Adapter.h"
 
 // Adapter is the file adapter for Casbin.
 // It can load policy from file or save policy to file.

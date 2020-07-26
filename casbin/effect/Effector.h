@@ -20,7 +20,7 @@
 #include <string>
 #include <vector>
 
-#include "effect.h"
+#include "Effect.h"
 
 using namespace std;
 

@@ -19,7 +19,7 @@
 
 #include<memory>
 #include "./rbac/role_manager.h"
-#include "./model/function.h"
+#include "./model/Function.h"
 #include "./enforcer_interface.h"
 #include "./persist/filtered_adapter.h"
 

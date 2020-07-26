@@ -17,8 +17,8 @@
 #ifndef CASBIN_CPP_PERSIST_WATCHER_EX
 #define CASBIN_CPP_PERSIST_WATCHER_EX
 
-#include "../model/model.h"
-#include "./watcher.h"
+#include "../model/Model.h"
+#include "./Watcher.h"
 
 // WatcherEx is the strengthen for Casbin watchers.
 class WatcherEx: public Watcher {

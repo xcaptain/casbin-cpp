@@ -17,7 +17,7 @@
 #ifndef CASBIN_CPP_EFFECT_DEFAULT_EFFECTOR
 #define CASBIN_CPP_EFFECT_DEFAULT_EFFECTOR
 
-#include "effector.h"
+#include "Effector.h"
 
 /**
  * DefaultEffector is default effector for Casbin.

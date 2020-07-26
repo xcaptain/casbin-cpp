@@ -17,10 +17,10 @@
 #ifndef CASBIN_CPP_ENFORCER_INTERFACE
 #define CASBIN_CPP_ENFORCER_INTERFACE
 
-#include "./model/model.h"
-#include "./persist/adapter.h"
+#include "./model/Model.h"
+#include "./persist/Adapter.h"
 #include "./persist/default_watcher.h"
-#include "./effect/effector.h"
+#include "./effect/Effector.h"
 #include "./model/scope_config.h"
 
 // IEnforcer is the API interface of Enforcer

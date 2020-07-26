@@ -18,7 +18,7 @@
 
 #include "pch.h"
 
-#include "./adapter.h"
+#include "./Adapter.h"
 #include "../util/util.h"
 
 // LoadPolicyLine loads a text line as a policy rule to model.

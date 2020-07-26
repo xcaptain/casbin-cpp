@@ -20,8 +20,8 @@
 
 #include <sstream>
 
-#include "./model.h"
-#include "../config/config.h"
+#include "./Model.h"
+#include "../config/Config.h"
 #include "../exception/missing_required_sections.h"
 #include "../util/util.h"
 

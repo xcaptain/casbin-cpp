@@ -20,7 +20,7 @@
 
 #include <regex>
 
-#include "../model/function.h"
+#include "../model/Function.h"
 #include "./built_in_functions.h"
 #include "../rbac/role_manager.h"
 #include "./util.h"

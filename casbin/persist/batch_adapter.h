@@ -17,7 +17,7 @@
 #ifndef CASBIN_CPP_PERSIST_BATCH_ADAPTER
 #define CASBIN_CPP_PERSIST_BATCH_ADAPTER
 
-#include "./adapter.h"
+#include "./Adapter.h"
 
 class BatchAdapter: virtual public Adapter {
     public:

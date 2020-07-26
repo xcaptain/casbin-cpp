@@ -16,14 +16,12 @@
 
 #pragma once
 
-#include "pch.h"
-
 #include <fstream>
 #include <sstream>
 #include <algorithm>
 #include <cstdio>
 
-#include "./config.h"
+#include "./Config.h"
 #include "../exception/io_exception.h"
 #include "../exception/illegal_argument_exception.h"
 #include "../util/util.h"

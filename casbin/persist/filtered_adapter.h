@@ -17,7 +17,7 @@
 #ifndef CASBIN_CPP_PERSIST_ADAPTER_FILTERED
 #define CASBIN_CPP_PERSIST_ADAPTER_FILTERED
 
-#include "./adapter.h"
+#include "./Adapter.h"
 
 // Filter defines the filtering rules for a FilteredAdapter's policy. Empty values
 // are ignored, but all others must match the filter.
